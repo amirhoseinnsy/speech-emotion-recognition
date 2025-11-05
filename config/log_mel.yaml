@@ -1,0 +1,64 @@
+logs:
+- '[2025-09-10 14:30:04] Epoch 1/20 | Train Loss: 3.5285 | Train Acc: 0.2619 | Val
+  Loss: 3.7733 | Val Acc: 0.3100'
+logs:
+- '[2025-09-10 14:30:40] Epoch 2/20 | Train Loss: 1.5898 | Train Acc: 0.2456 | Val
+  Loss: 1.5723 | Val Acc: 0.2600'
+logs:
+- '[2025-09-10 14:31:16] Epoch 3/20 | Train Loss: 1.3549 | Train Acc: 0.3155 | Val
+  Loss: 1.3696 | Val Acc: 0.3200'
+logs:
+- '[2025-09-10 14:31:52] Epoch 4/20 | Train Loss: 1.3434 | Train Acc: 0.3516 | Val
+  Loss: 1.3830 | Val Acc: 0.2900'
+logs:
+- '[2025-09-10 14:32:28] Epoch 5/20 | Train Loss: 1.3297 | Train Acc: 0.3609 | Val
+  Loss: 1.3538 | Val Acc: 0.3700'
+logs:
+- '[2025-09-10 14:33:04] Epoch 6/20 | Train Loss: 1.2995 | Train Acc: 0.3807 | Val
+  Loss: 1.3467 | Val Acc: 0.4200'
+logs:
+- '[2025-09-10 14:33:40] Epoch 7/20 | Train Loss: 1.2805 | Train Acc: 0.3772 | Val
+  Loss: 1.3214 | Val Acc: 0.4400'
+logs:
+- '[2025-09-10 14:34:16] Epoch 8/20 | Train Loss: 1.2645 | Train Acc: 0.3958 | Val
+  Loss: 1.2629 | Val Acc: 0.4200'
+logs:
+- '[2025-09-10 14:34:52] Epoch 9/20 | Train Loss: 1.2298 | Train Acc: 0.4214 | Val
+  Loss: 1.2612 | Val Acc: 0.3700'
+logs:
+- '[2025-09-10 14:35:27] Epoch 10/20 | Train Loss: 1.2087 | Train Acc: 0.4366 | Val
+  Loss: 1.1564 | Val Acc: 0.4500'
+logs:
+- '[2025-09-10 14:36:03] Epoch 11/20 | Train Loss: 1.1639 | Train Acc: 0.4668 | Val
+  Loss: 1.1197 | Val Acc: 0.4100'
+logs:
+- '[2025-09-10 14:36:39] Epoch 12/20 | Train Loss: 1.1508 | Train Acc: 0.4866 | Val
+  Loss: 1.0315 | Val Acc: 0.4700'
+logs:
+- '[2025-09-10 14:37:14] Epoch 13/20 | Train Loss: 1.1445 | Train Acc: 0.4785 | Val
+  Loss: 1.0150 | Val Acc: 0.4300'
+logs:
+- '[2025-09-10 14:37:50] Epoch 14/20 | Train Loss: 1.1123 | Train Acc: 0.5006 | Val
+  Loss: 0.9986 | Val Acc: 0.4900'
+logs:
+- '[2025-09-10 14:38:28] Epoch 15/20 | Train Loss: 1.0624 | Train Acc: 0.5367 | Val
+  Loss: 0.9510 | Val Acc: 0.5700'
+logs:
+- '[2025-09-10 14:39:08] Epoch 16/20 | Train Loss: 1.1064 | Train Acc: 0.5215 | Val
+  Loss: 1.0987 | Val Acc: 0.4500'
+logs:
+- '[2025-09-10 14:39:45] Epoch 17/20 | Train Loss: 1.0711 | Train Acc: 0.5215 | Val
+  Loss: 1.0371 | Val Acc: 0.4300'
+logs:
+- '[2025-09-10 14:40:21] Epoch 18/20 | Train Loss: 1.0323 | Train Acc: 0.5367 | Val
+  Loss: 1.0773 | Val Acc: 0.5100'
+logs:
+- '[2025-09-10 14:40:57] Epoch 19/20 | Train Loss: 1.0523 | Train Acc: 0.5343 | Val
+  Loss: 1.0991 | Val Acc: 0.4100'
+logs:
+- '[2025-09-10 14:41:33] Epoch 20/20 | Train Loss: 1.0349 | Train Acc: 0.5448 | Val
+  Loss: 1.0223 | Val Acc: 0.4500'
+logs:
+- '[2025-09-10 14:41:33] Early stopping triggered.'
+logs:
+- '[2025-09-10 14:41:33] Training complete. Total time: 0:12:07.868858'

@@ -1,0 +1,31 @@
+experiment:
+  name: "cremad_emotion"
+  seed: 42
+
+data:
+  root: "D:/Deep/Assignment 5/data/dataset"
+  feature_type: "hubert"    
+  max_speakers: 5         
+  sample_rate: 16000       
+  seconds: 3               
+  n_mels: 64            
+  num_workers: 4
+
+model:
+  num_classes: 4          
+  pretrained: "facebook/hubert-base-ls960"
+  mel_conv_layers: 3      
+  hubert_mlp_layers: 1    
+  dropout: 0.3
+
+training:
+  batch_size: 4          
+  epochs: 20              
+  lr: 0.01                
+  weight_decay: 1e-4
+  optimizer: "Adam"
+  loss_fn: "CrossEntropy"
+  patience: 5
+  save_epoch: 1
+  device: "cuda"
+  log_file: "config/log.yaml"
